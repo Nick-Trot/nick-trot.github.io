@@ -1,0 +1,25 @@
+Papers:
+- Efficiencies for HPA*
+https://pdfs.semanticscholar.org/038a/ebe1aa5e35a8d2e7b78c6752d852a053a42a.pdf
+- Original HPA* Paper
+https://webdocs.cs.ualberta.ca/~mmueller/ps/hpastar.pdf
+
+Guides:
+- Beyond A* Ppt
+https://harablog.files.wordpress.com/2009/06/beyondastar.pdf
+- NavMesh Walkthrough
+https://arongranberg.com/astar/documentation/dev_4_3_5_58efaa48/getstarted2.html
+- GOAP Cost Estimation
+https://gamedev.stackexchange.com/questions/45321/estimating-costs-in-a-goap-system
+
+Lagrangian Integration:
+https://pdfs.semanticscholar.org/b09f/e2d56b70c7c6507ca2cbe59b3019d8609c2d.pdf
+https://arxiv.org/pdf/1401.7904.pdf
+http://homepage.divms.uiowa.edu/~ljay/publications.dir/Lagrangian.pdf
+http://www.math.chalmers.se/cm/education/courses/0203/ala-b/tex/diffequation.pdf
+https://www.sciencedirect.com/science/article/pii/S0309170899000251?via%3Dihub
+https://www.sciencedirect.com/science/article/pii/S0309170897000225?via%3Dihub
+https://www.unige.ch/~hairer/poly_geoint/week1.pdf
+
+Fluid Dynamics:
+https://www.kau.edu.sa/Files/0057863/Subjects/Chapter%204.pdf
